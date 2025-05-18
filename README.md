@@ -8,6 +8,9 @@ This app combines the magic of Neural Style Transfer with High-Resolution Image 
 
 - Download the final output for printing or sharing
 
+![Alt Text](input_images/demo.jpg)
+
+
 ### 🚀 Hosted on Hugging Face Spaces: [Your Hugging Face Space URL Here]
 🌟 Features
 
