@@ -46,13 +46,14 @@ pip install streamlit tensorflow tensorflow_hub realesrgan numpy opencv-python p
 streamlit run app.py
 
 📁 Project Structure
-
+```bash
 ├── app.py               # Streamlit main application
 ├── utils.py             # Style transfer and upscaling functions
 ├── README.md            # This file
 ├── requirements.txt     # Python dependencies
 ├── input_images/        # Optional directory with default style images
 └── output_images/       # Directory where output images are saved
+```
 
 ### 🧠 Models Used
 
